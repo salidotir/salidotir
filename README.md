@@ -22,9 +22,6 @@ Here are some ideas to get you started:
     <p align="left">
       <a href="mailto:salidotir@gmail.com">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-      </a>&nbsp;&nbsp;
-      <a href="https://t.me/salidotir">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
       </a>
     </p>
 
