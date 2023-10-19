@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 - 💻 Computer engineering student @ [Shiraz University](https://shirazu.ac.ir/en/home)
+-->
+- 💻 Msc. of Computer Science & Engineering student @ [Politecnico di Milano University](https://www.polimi.it/en)
 - 😎 Love learning new things!
 
 
